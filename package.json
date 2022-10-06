@@ -5,6 +5,8 @@
     "typescript": "^4.8.2"
   },
   "dependencies": {
-    "@capacitor/camera": "^4.1.1"
+    "@capacitor/camera": "^4.1.1",
+    "axios": "^0.27.2",
+    "class-validator": "^0.13.2"
   }
 }
